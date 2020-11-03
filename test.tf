@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "b" {
-  bucket = "my-terraform-training"
+  bucket = "my-terraform-training-test"
 }
 
 terraform {
